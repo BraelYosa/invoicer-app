@@ -1,0 +1,13 @@
+# Ignore all output files
+/output/
+
+# Ignore database
+/database/invoice_system.db
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS specific files
+.DS_Store
+Thumbs.db
